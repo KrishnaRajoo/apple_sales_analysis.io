@@ -74,7 +74,7 @@ This project presents an interactive **Power BI Dashboard** that analyzes **Appl
 
 ### Sales and Profit in Different Cities and Months
 
-![Dashboard 2](screenshots/dashboard2.png)
+![Dashboard 2](https://github.com/KrishnaRajoo/apple_sales_analysis.io/blob/main/Screenshot%202025-09-08%20100312.png)
 
 ---
 
