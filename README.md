@@ -70,7 +70,7 @@ This project presents an interactive **Power BI Dashboard** that analyzes **Appl
 
 ### Apple Product Sales in Different States
 
-![Dashboard 1](screenshots/dashboard1.png)
+![Dashboard 1](https://github.com/KrishnaRajoo/apple_sales_analysis.io/blob/main/Screenshot%202025-09-08%20100231.png).
 
 ### Sales and Profit in Different Cities and Months
 
